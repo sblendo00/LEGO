@@ -1,11 +1,11 @@
 {
     "veicoli": [
         {
-             "Set Number": "LEGO 4651" ,
-             "Set Theme": "vehicle",
-             "Set Name": "police motorcycle",
+             "Number": "LEGO 4651" ,
+             "Theme": "vehicle",
+             "Name": "police motorcycle",
              "Year": 2003,
-             "foto": "",
+             "foto": "4651b.jpg",
              "istruzioni":[
                  {
                      "link": ""
@@ -14,19 +14,19 @@
         } ,
 
         {
-             "Set Number": "LEGO 4652" ,
-             "Set Theme": "vehicle",
-             "Set Name": "Tow Truck",
+             "Number": "LEGO 4652" ,
+             "Theme": "vehicle",
+             "Name": "Tow Truck",
              "Year": 2003,
-             "foto":
+             "foto": "4652b.jpg"
         } ,
         
         {
-             "Set Number": "LEGO 4653",
-             "Set Theme": "vehicle",
-             "Set Name": "Dump Druck",
+             "Number": "LEGO 4653",
+             "Theme": "vehicle",
+             "Name": "Dump Druck",
              "Year": 2003,
-             "foto":
+             "foto": "4653b.jpg"
         }
     ]
 
